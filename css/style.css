@@ -18,7 +18,7 @@ body {
 .page-container {
 	width:350px;
 	height:auto;
-    margin: 120px auto 0 auto;
+    margin: 300px auto 0 auto;
 }
 
 h1 {
@@ -186,9 +186,10 @@ button:active {
 .connect a:hover { background-position: center bottom; }
 
 /*－－－增加部份的CSS－－－*/
-form,input,button{font-family:Microsoft YaHei,Segoe UI,Tahoma,Arial,Verdana,sans-serif; text-decoration:none; width:100%;}
-button.submit_button{ font-size:24px; letter-spacing:15px;}
-input.Captcha{ width:130px; float:left;}
+form,input,button
+{font-family:Microsoft YaHei,Segoe UI,Tahoma,Arial,Verdana,sans-serif; text-decoration:none; width:100%;}
+button.submit_button{ font-size:24px; letter-spacing:10px;}
+input.Captcha{ width:200px; float:left;}
 
 
 
