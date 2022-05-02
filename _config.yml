@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     liujingyi
 github_username:    liujingyi
 facebook_username:  liujingyi
-jianshu_username:   e71990ada2fd
+#jianshu_username:   e71990ada2fd
 #twitter_username:   liujingyi
 
 
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: liujingyi.github.io    #仓库名称
@@ -99,16 +99,20 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "嘉然",
+        href: "https://space.bilibili.com/672328094"
     },{
-        title: "简书",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "向晚",
+        href: "https://space.bilibili.com/672346917"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "乃琳",
+        href: "https://space.bilibili.com/672342685"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "珈乐",
+        href: "https://space.bilibili.com/351609538"
+    },
+    {
+        title: "贝拉",
+        href: "https://space.bilibili.com/672353429"
     }
 ]
